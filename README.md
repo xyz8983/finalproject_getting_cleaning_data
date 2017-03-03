@@ -1,4 +1,4 @@
-# finalproject_getting_cleaning_data
+# project_getting_cleaning_data
 Final project for Coursera class: Getting and Cleaning Data
 
 This project contains the following files:
